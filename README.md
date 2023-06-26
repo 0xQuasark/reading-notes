@@ -5,4 +5,8 @@ testing out pages
 * first there was nothing
 * then there was a list
 
-This was a blast!
+
+
+## Table of Contents
+
+* [Class 01 Notes](./class-01.md)
