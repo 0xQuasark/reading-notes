@@ -5,7 +5,7 @@ Notes made during Code Fellows 102 class
 ## Table of Contents
 
 * [Class 01 Notes](./class-01.md)
-* Class 02 Notes (coming soon...)
+* [Class 02 Notes](./class-02.md)
 
 
 ## Conclusion
