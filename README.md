@@ -9,4 +9,4 @@ testing out pages
 
 ## Table of Contents
 
-* [Class 01 Notes](./class-01)
+* [Class 01 Notes](./class-01.md)
