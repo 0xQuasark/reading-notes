@@ -6,7 +6,7 @@
 * a Growth Mindset is the belief that you can improve your current state,
 * in order to do so though, one should recognize that no new skill can be achieved without hard work
 * Growth Mindset is to be aware not only that change is possible, but that it is only possible through adversity.
-* ![Here is a graphical representation comparing the two mindsets](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png)
+* ![Here is a graphical representation comparing the two mindsets](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png){:width="200px" height="300px"}
 
 ## Reminders for me to keep myself in Growth Mindset
 1. when things start to feel difficult, remember: No Pain, No Gain
