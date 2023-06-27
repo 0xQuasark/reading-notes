@@ -29,3 +29,11 @@
   5. now we look at the files with the sub-directory (`new-preoject`) of the directory we just came from (`projects`). 
   
 
+*dragon*
+**dragon**
+*dragon
+> dragon
+# dragon
+& dragon
+`dragon`
+
