@@ -21,8 +21,18 @@
 1. What is Version Control?
   * keeps track of multiple files across a diverse set of directories and different coders
   * without version control distributed teams would be overwriting 
+
 1. What is cloning in Git?
+  * Copies a cloud instance to a local computer
+  * it can be done in a variety of ways
+  * it does not imply continuous sync - it's a one time thing
+
 1. What is the command to track and stage files?
+  * 
 1. What is the command to take a snapshot of your changed files?
 1. What is the command to send your changed files to Github?
 
+## Visuals
+
+### Visual representation of what happens to a file in git
+![Visual representation of what happens to a file in git](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
