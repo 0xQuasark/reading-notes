@@ -15,19 +15,20 @@
   * Bada-bing! This is now sitting on your local computer
   * also worth noting, you can use github cli (gh is git's own terminal)
     * gh is worth understanding more
-* `git add <FILENAME>` 
-
-* A-C-P
-  * Add
-    * The "add" step allows you to stage changes made to your files and prepare them for a commit. You can use the git add command to add specific files or directories to the staging area. For example, `git add file1.txt` or `git add .` to add all modified files.
-  * Commit
-    * The "commit" step creates a snapshot of the changes you have staged in the previous "add" step. It records a new version of your project's history with a commit message explaining the changes made. You can use the git commit command along with the -m option to include a commit message. For example, `git commit -m "Add feature XYZ"`.
-    
-  * Push
-    * The "push" step involves sending your committed changes from your local repository to a remote repository (GitHub). It makes your changes visible to others and updates the remote repository with your latest commits. `git push origin main` to push your changes to the "main" branch of the remote repository named "origin".
 
 
-* typical work flow:
+### A-C-P
+* Add
+  * The "add" step allows you to stage changes made to your files and prepare them for a commit. You can use the git add command to add specific files or directories to the staging area. For example, `git add file1.txt` or `git add .` to add all modified files.
+
+* Commit
+  * The "commit" step creates a snapshot of the changes you have staged in the previous "add" step. It records a new version of your project's history with a commit message explaining the changes made. You can use the git commit command along with the -m option to include a commit message. For example, `git commit -m "Add feature XYZ"`.
+  
+* Push
+  * The "push" step involves sending your committed changes from your local repository to a remote repository (GitHub). It makes your changes visible to others and updates the remote repository with your latest commits. `git push origin main` to push your changes to the "main" branch of the remote repository named "origin".
+
+
+### typical work flow:
   1. `git add <file>`
   1. `git commit -m "message for why we're staging the files"`
   1. `git push origin main`
