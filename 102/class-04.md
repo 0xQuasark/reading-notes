@@ -1,4 +1,4 @@
-# testing out committing via VScode
+# Class 04 - HTML Basics
 
 ## Tuesday Afternoon June 27th 2023
 

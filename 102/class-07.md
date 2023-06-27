@@ -1,4 +1,4 @@
-# testing out committing via VScode
+# Class 07
 
 ## Thursday Morning June 29th 2023
 

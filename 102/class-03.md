@@ -1,4 +1,4 @@
-# testing out committing via VScode
+# Class 03 - Git
 
 ## Tuesday MorningJune 27th 2023
 
