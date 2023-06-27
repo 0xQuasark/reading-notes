@@ -17,6 +17,13 @@
     * gh is worth understanding more
 * `git add <FILENAME>` 
 
+* typical work flow:
+  1. git add <file>
+  1. git commit -m "message for why we're staging the files"
+  1. git status // shows what files are staged/modified/etc
+  1. git push origin main
+
+
 ## Q&A's
 1. What is Version Control?
   * keeps track of multiple files across a diverse set of directories and different coders
@@ -28,9 +35,14 @@
   * it does not imply continuous sync - it's a one time thing
 
 1. What is the command to track and stage files?
-  * 
+  * git add <file(s)>
 1. What is the command to take a snapshot of your changed files?
+  * git commit
 1. What is the command to send your changed files to Github?
+  * git push origin main
+
+
+
 
 ## Visuals
 
