@@ -43,7 +43,7 @@
 5. What is the command to send your changed files to Github?
   * `git push origin main`
 
-
+6. This is going to cause a conflict
 
 
 ## Visuals
