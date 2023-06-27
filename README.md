@@ -39,6 +39,3 @@ Here's a link to all my Reading Notes during my Code Fellows journey:
 ## Conclusion
 
 [To learn more about me, check out my profile](https://github.com/0xQuasark)
-
-![Me](https://i.ibb.co/qdBy02y/moi.jpg)
-
