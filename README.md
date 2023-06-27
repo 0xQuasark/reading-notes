@@ -6,7 +6,7 @@ Notes made during Code Fellows 102 class
 
 * [Class 01 Notes](./class-01.md)
 * [Class 02 Notes](./class-02.md)
-
+* [Class 03 Notes](class-03.md)
 
 ## Conclusion
 
