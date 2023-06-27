@@ -1,5 +1,6 @@
-# reading-notes
-Notes from Codefellows 102 -> 401
+# Paul Brown's Reading Notes
+
+Here's a link to all my Reading Notes during my Code Fellows journey:
 
 ## Table of Contents
 
@@ -34,6 +35,10 @@ Notes from Codefellows 102 -> 401
 * [201.15 Notes](201/201-class15.md)
 
 
+
 ## Conclusion
 
 [To learn more about me, check out my profile](https://github.com/0xQuasark)
+
+![Me](https://i.ibb.co/qdBy02y/moi.jpg)
+
