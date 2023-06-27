@@ -8,6 +8,6 @@
 * 
 
 ## Q&A's
-* all of this appears in [the html](class-04.html) as per the challenge
+* all of this appears in [the html](class-04-answers.html) as per the challenge
 
 
