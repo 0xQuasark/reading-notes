@@ -48,7 +48,6 @@
 
 ## Visuals
 
-### 
 ![Visual representation of what happens to a file in git](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
 
 Backup visual representation of what happens to a file in git: https://blog.udemy.com/wp-content/uploads/2015/08/image006.png
