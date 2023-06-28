@@ -6,19 +6,19 @@ Here's a link to all my Reading Notes during my Code Fellows journey:
 ## Table of Contents
 
 
-| 102 Notes      |           |           |
-| --------- | --------- | --------- |
-| **Description**                         | **Details** | **Answer** |
-| [Class 01 Notes](102/class-01.md)     | Intro                 | |
-| [Class 02 Notes](102/class-02.md)     | Computer Commands     | |
-| [Class 03 Notes](102/class-03.md)     | git commands| |
-| [Class 04 Notes](102/class-04.md)       | HTML basics| [worksheet](102/class-04-answers.html)|
-| [Class 05 Notes](102/class-05.md)       | CSS Basics| [worksheet](102/class-05-answer.html)|
-| [Class 06 Notes](102/class-06.md)       | Intro to Javascript| |
-| [Class 07 Notes](102/class-07.md)       | | |
-| [Class 08 Notes](102/class-08.md)       | | |
-| [Class 09 Notes](102/class-09.md)       | | |
-| [Class 10 Notes](102/class-10.md)       | | |
+| 102 Notes      |           |           | |  |
+| --------- | --------- | --------- | --------- | --------- |
+| **Description**                         | **Details** | **rough notes** | **Read** | **Lab** |
+| [Class 01 Notes](102/class-01.md)     | Intro                 | | | |
+| [Class 02 Notes](102/class-02.md)     | Computer Commands     | | | |
+| [Class 03 Notes](102/class-03.md)     | git commands| | | |
+| [Class 04 Notes](102/class-04.md)       | HTML basics| | [read04 exercise](102/class-04-answers.html)| |
+| [Class 05 Notes](102/class-05.md)       | CSS Basics| | [read05 exercise](102/class-05-answer.html)| [lab05](https://0xquasark.github.io/102-class04/)|
+| [Class 06 Notes](102/class-06.md)       | Intro to Javascript| [test06](<102/rought notes/test06.html>)| |  | |
+| [Class 07 Notes](102/class-07.md)       | | | | | |
+| [Class 08 Notes](102/class-08.md)       | | | | | |
+| [Class 09 Notes](102/class-09.md)       | | | | |  |
+| [Class 10 Notes](102/class-10.md)       | | | | | |
 
 
 
