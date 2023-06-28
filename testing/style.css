@@ -1,0 +1,45 @@
+h1 {
+  color: red;
+  text-align: center;
+  width: 300px;
+  margin: 5px auto;
+  /* background-color: grey; */
+}
+
+header {
+  width: 100%;
+  border: thin solid red;
+  background-color: grey;
+}
+
+main div {
+  /* this applies only to div's who are direct children of main */
+  border: thin solid blue;
+}
+
+main {
+  width: 100%;
+  height: 250px;
+}
+
+footer {
+  width: 100%;
+  border: thin solid purple
+}
+
+.panel {
+  width: 50px;
+  height: 100%;
+  margin: 0px 5px;
+  background-color: orange;
+  display: inline-block
+}
+
+section {
+  vertical-align: top;
+  width: 250px;
+  height: 100%;
+  border: thin solid green;
+  display: inline-block;
+}
+
