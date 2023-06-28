@@ -9,7 +9,7 @@ Here's a link to all my Reading Notes during my Code Fellows journey:
 * [Class 02 Notes](./102/class-02.md) - computer commands
 * [Class 03 Notes](./102/class-03.md) - git commands
 * [Class 04 Notes](102/class-04.md) - HTML basics
-* [Class 05 Notes](102/class-05.md)
+* [Class 05 Notes](102/class-05.md) - CSS
 * [Class 06 Notes](102/class-06.md)
 * [Class 07 Notes](102/class-07.md)
 * [Class 08 Notes](102/class-08.md)
