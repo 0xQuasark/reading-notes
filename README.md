@@ -4,6 +4,8 @@ Here's a link to all my Reading Notes during my Code Fellows journey:
 
 
 ## Table of Contents
+
+
 | 102 Notes      |           |
 | --------- | --------- |
 | **Description**                         | **Details** |
