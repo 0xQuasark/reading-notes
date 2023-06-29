@@ -16,7 +16,7 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 | [Class 04 Notes](102/class-04.md)       | HTML basics| | [read04 exercise](102/class-04-answers.html)| |
 | [Class 05 Notes](102/class-05.md)       | CSS Basics| | [read05 exercise](102/class-05-answer.html)| [lab05](https://0xquasark.github.io/102-class04/)|
 | [Class 06 Notes](102/class-06.md)       | Intro to Javascript| [test06](<102/rough notes/test06.html>)|[read06](102/class-06.md) |  |
-| [Class 07 Notes](102/class-07.md)       | Javascript Functions | [test07](<102/rough notes/test07.html>)|[read07](102/class-07.md) | |
+| [Class 07 Notes](102/class-07.md)       | Javascript Functions | [test07](<102/rough notes/test07.html>)|[read07](102/class-07.md) | [lab07](https://0xquasark.github.io/102-class04/)|
 | [Class 08 Notes](102/class-08.md)       | | | | |
 | [Class 09 Notes](102/class-09.md)       | | | | |
 | [Class 10 Notes](102/class-10.md)       | | | | |
