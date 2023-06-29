@@ -2,6 +2,7 @@
 
 Here's a link to all my Reading Notes during my Code Fellows journey:
 
+The HTML version of this page [can be found here](https://0xquasark.github.io/reading-notes/)
 
 ## Table of Contents
 
