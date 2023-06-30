@@ -7,7 +7,7 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 ## Table of Contents
 
 
-| 102 Notes      |           |           | |  |
+| 102 Notes                                         |                       |                         |
 | ------------------------------------------------- | --------------------- | ----------------------- |
 | **Description**                                   | **Details**           | **rough notes**         |
 | [Class 01 Notes](102/class-01.md)                 | Intro                 |                         |
