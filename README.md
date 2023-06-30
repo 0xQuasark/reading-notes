@@ -8,18 +8,19 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 
 
 | 102 Notes      |           |           | |  |
-| --------- | --------- | --------- | --------- | --------- |
-| **Description**                         | **Details**         | **rough notes** | **Lab** |
-| [Class 01 Notes](102/class-01.md)     | Intro                 |                 |           |
-| [Class 02 Notes](102/class-02.md)     | Computer Commands     |                 |           |
-| [Class 03 Notes](102/class-03.md)     | git commands          |                 |           |
-| [Class 04 Notes](102/class-04.md)     | HTML basics           |                 |           |
-| [Class 05 Notes](102/class-05.md)     | CSS Basics            |                 | [lab05](https://0xquasark.github.io/102-class04/)|
-| [Class 06 Notes](102/class-06.md)     | Intro to Javascript   | [test06](<102/rough notes/test06.html>)| | 
-| [Class 07 Notes](102/class-07.md)     | Javascript Functions  | [test07](<102/rough notes/test07.html>)| [lab07](https://0xquasark.github.io/102-class04/)|
-| [Class 08 Notes](102/class-08.md)     | Operators and Loops   |                 |           |
-| [Class 09 Notes](102/class-09.md)     |                       |                 |           |
-| [Class 10 Notes](102/class-10.md)     |                       |                 |           |
+| ------------------------------------------------- | --------------------- | ----------------------- |
+| **Description**                                   | **Details**           | **rough notes**         |
+| [Class 01 Notes](102/class-01.md)                 | Intro                 |                         |
+| [Class 02 Notes](102/class-02.md)                 | Computer Commands     |                         |
+| [Class 03 Notes](102/class-03.md)                 | git commands          |                         |
+| [Class 04 Notes](102/class-04.md)                 | HTML basics           |                         |
+| [Class 05 Notes](102/class-05.md)                 | CSS Basics            |                         |
+| [Class 06 Notes](102/class-06.md)                 | Intro to Javascript   | [test06](<102/rough notes/test06.html>)|
+| [Class 07 Notes](102/class-07.md)                 | Javascript Functions  | [test07](<102/rough notes/test07.html>)|
+| [Class 08 Notes](102/class-08.md)                 | Operators and Loops   |                         |
+| [Class 09 Notes](102/class-09.md)                 |                       |                         |
+| [Class 10 Notes](102/class-10.md)                 |                       |                         |
+| [102 Labwork](https://0xquasark.github.io/102-labwork/) |                       |                         |
 
 
 
