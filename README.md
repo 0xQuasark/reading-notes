@@ -7,30 +7,30 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 ## Table of Contents
 ## Code 201 - Foundations of Software Development
 
-| 201 Notes                                |             |                         |
-| ---------------------------------------- | ----------- | ----------------------- |
-| **Description**                          | **Details** | **Experiments**         |
-| [201.01 Notes](201/201-class01.md)       |             |                         |
-| [201.02 Notes](201/201-class02.md)       |             |                         |
-| [201.03 Notes](201/201-class03.md)       |             |                         |
-| [201.04 Notes](201/201-class04.md)       |             |                         |
-| [201.05 Notes](201/201-class05.md)       |             |                         |
-| [201.06 Notes](201/201-class06.md)       |             |                         |
-| [201.07 Notes](201/201-class07.md)       |             |                         |
-| [201.08 Notes](201/201-class08.md)       |             |                         |
-| [201.09 Notes](201/201-class09.md)       |             |                         |
-| [201.10 Notes](201/201-class10.md)       |             |                         |
-| [201.11 Notes](201/201-class11.md)       |             |                         |
-| [201.12 Notes](201/201-class12.md)       |             |                         |
-| [201.13 Notes](201/201-class13.md)       |             |                         |
-| [201.14 Notes](201/201-class14.md)       |             |                         |
-| [201.15 Notes](201/201-class15.md)       |             |                         |
+| 201 Notes                                |                                          |                         |
+| ---------------------------------------- | ---------------------------------------- | ----------------------- |
+| **Notes**                                | **Details**                              | **Assignments**         |
+| [201.01 Notes](201/201-class01.md)       | Introduction to Development	            |                         |
+| [201.02 Notes](201/201-class02.md)       | Basics of HTML, CSS, JS                  |                         |
+| [201.03 Notes](201/201-class03.md)       | Control Flow; Box Model                  |                         |
+| [201.04 Notes](201/201-class04.md)       | Javascript Functions; Pair Programming   |                         |
+| [201.05 Notes](201/201-class05.md)       | Images, Color, Style; Branching          |                         |
+| [201.06 Notes](201/201-class06.md)       | Javascript Objects; The DOM	            |                         |
+| [201.07 Notes](201/201-class07.md)       | OOP; HTML Tables	                        |                         |
+| [201.08 Notes](201/201-class08.md)       | CSS Layout: Flex	                        |                         |
+| [201.09 Notes](201/201-class09.md)       | HTML Forms & JavaScript Events	          |                         |
+| [201.10 Notes](201/201-class10.md)       | JS Debugging; CSS Layouts	              |                         |
+| [201.11 Notes](201/201-class11.md)       | A/V; Accessibility; Math.random()  	    |                         |
+| [201.12 Notes](201/201-class12.md)       | 3rd Party Libraries and Documentation	  |                         |
+| [201.13 Notes](201/201-class13.md)       | Application State with Local Storage API	|                         |
+| [201.14 Notes](201/201-class14.md)       | Psycological Safety	                    |                         |
+| [201.15 Notes](201/201-class15.md)       | Project Kickoff	                        |                         |
 
 
 ## Code 102 - Intro to Software Development
 | 102 Notes                                               |                       |                         |
 | ------------------------------------------------------- | --------------------- | ----------------------- |
-| **Description**                                         | **Details**           | **Experiments**         |
+| **Notes**                                               | **Details**           | **Experiments**         |
 | [Class 01 Notes](102/class-01.md)                       | Intro                 |                         |
 | [Class 02 Notes](102/class-02.md)                       | Computer Commands     |                         |
 | [Class 03 Notes](102/class-03.md)                       | git commands          |                         |
