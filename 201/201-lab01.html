@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    h1 {
+      color: blueviolet;
+    }
+
+    #question1 {
+      background-color: pink;
+      color: brown;
+    }
+    #question2 {
+      background-color: peachpuff;
+      color: red;
+    }
+    #question3 {
+      background-color: purple;
+      color: salmon;
+    }
+    #question4 {
+      background-color: chartreuse;
+      color: yellow;
+    }
+
+
+  </style>
+</head>
+<body>
+  
+  <header>
+
+  </header>
+  <main>
+    <h1>Class 1 Lab</h1>
+
+    <script>
+      let name = prompt("What's your name?");
+      console.log(`name is: ${name}`)
+      let place = prompt("Where is worst place you've been?");
+      console.log(`place is: ${place}`)
+      let animal = prompt("What's your favorite animal?");
+      console.log(`animal is: ${animal}`)
+      let celebrity = prompt("Who is your favorite celebrity?");
+      console.log(`celebrity is: ${celebrity}`)
+    </script>
+
+    These are the questions that I'm asking:
+    
+    <p id="question1">What's your name?</p>
+    <p id="question2">Where is worst place you've been?</p>
+    <p id="question3">What's your favorite animal?</p>
+    <p id="question4">Who is your favorite celebrity?</p>
+
+    <script>
+      document.write("Hi there " + name + ", I'm sorry about " + place + ":(<br>");
+      document.write("Did you know that " + celebrity + " once ate a " + animal + " ?")
+    </script>
+  </main>
+  <footer>
+
+  </footer>
+
+</body>
+</html>
