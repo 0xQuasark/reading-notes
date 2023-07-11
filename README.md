@@ -10,7 +10,7 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 | 201 Notes                                |                                          |                         |
 | ---------------------------------------- | ---------------------------------------- | ----------------------- |
 | **Notes**                                | **Details**                              | **Assignments**         |
-| [201.01 Notes](201/201-class01.md)       | Introduction to Development	            |                         |
+| [201.01 Notes](201/201-class01.md)       | Introduction to Development	            | [Lab 01](201/labs/lab01/201-lab01.html)                        |
 | [201.02 Notes](201/201-class02.md)       | Basics of HTML, CSS, JS                  |                         |
 | [201.03 Notes](201/201-class03.md)       | Control Flow; Box Model                  |                         |
 | [201.04 Notes](201/201-class04.md)       | Javascript Functions; Pair Programming   |                         |
