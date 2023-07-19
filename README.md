@@ -15,7 +15,7 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 | [201.03 Notes](201/201-class03.md)       | Control Flow; Box Model                  | [Lab 03](https://0xquasark.github.io/201.Module1/)                        |
 | [201.04 Notes](201/201-class04.md)       | Javascript Functions; Pair Programming   |                         |
 | [201.05 Notes](201/201-class05.md)       | Images, Color, Style; Branching          |                         |
-| [201.06 Notes](201/201-class06.md)       | Javascript Objects; The DOM	            |                         |
+| [201.06 Notes](201/201-class06.md)       | Javascript Objects; The DOM	            | [Salmon Cookies](https://0xquasark.github.io/cookie-stand/)                        |
 | [201.07 Notes](201/201-class07.md)       | OOP; HTML Tables	                        |                         |
 | [201.08 Notes](201/201-class08.md)       | CSS Layout: Flex	                        |                         |
 | [201.09 Notes](201/201-class09.md)       | HTML Forms & JavaScript Events	          |                         |
