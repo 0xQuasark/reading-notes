@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fun with Forms</title>
+</head>
+<body>
+  <form id="pokemon-form">
+    <fieldset>
+      <legend>Create a Pokemon</legend>
+      <div class="pokemon-input">
+        <label for="pokemon-name">Pokemon Name</label>
+        <input id="pokemon-name" type="text" name="pokemonName" placeholder="Pikachu">
+      </div>
+      <div class="pokemon-input">
+        <label for="pokemon-type">Pokemon Type</label>
+        <input id="pokemon-type" type="text" name="pokemonType" placeholder="Electric">
+      </div>
+      <!-- 
+        id = is for css and other things
+        name = is going to parse the variable to our JS
+      -->
+      <div class="pokemon-input">
+        <label for="pokemon-foil">Is your Pokemon shiny?</label>
+        <select id="pokemon-foil" name="isFoil">
+          <option value="true">Yes</option>
+          <option value="false">No</option>
+        </select>
+      </div>
+      <button type="submit">Create Pokemon</button>
+    </fieldset>
+  </form>
+  <section>
+    <table id="pokedex">
+      <thead>
+        <tr>
+          <th>
+            Pokemon Name
+          </th>
+          <th>
+            Pokemon Type
+          </th>
+          <th>
+            Shiny?
+          </th>
+        </tr>
+      </thead>
+      <tbody id="table-body">
+
+      </tbody>
+      <tfoot id="table-footer">
+
+      </tfoot>
+    </ul>
+  </section>
+  <script src="class9.js"></script>
+</body>
+</html>
