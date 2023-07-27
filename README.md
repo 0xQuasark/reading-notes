@@ -28,7 +28,7 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 | [201.11 Notes](201/201-class11.md)       | A/V; Accessibility; Math.random()  	    |                         |
 | [201.12 Notes](201/201-class12.md)       | 3rd Party Libraries and Documentation	  |                         |
 | [201.13 Notes](201/201-class13.md)       | Application State with Local Storage API	|                         |
-| [201.14 Notes](201/201-class14.md)       | Psycological Safety	                    |                         |
+| [201.14 Notes](201/201-class14.md)       | Psycological Safety	                    |   [Psycological Safety Assignment](201/201-class14.psych-safety.md)                      |
 | [201.15 Notes](201/201-class15.md)       | Project Kickoff	                        |                         |
 
 
