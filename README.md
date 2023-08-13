@@ -8,10 +8,30 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 - [201 Lecture Demos](https://github.com/codefellows/seattle-code-201d103/)
 
 ## Table of Contents
+## Code 301 - Intermediate Software Development
+
+| 301 Notes                                |                                          |                         |
+| ---------------------------------------- | ---------------------------------------- | ----------------------- |
+| **Notes**                                | **Details**                              | **Assignments**         |
+|        | 	              |                         |
+|        | 	              |                         |
+|        | 	              |                         |
+|        | 	              |                         |
+|        | 	              |                         |
+|        | 	              |                         |
+|        | 	              |                         |
+|        | 	              |                         |
+|        | 	              |                         |
+|        | 	              |                         |
+|        | 	              |                         |
+|        | 	              |                         |
+|        | 	              |                         |
+|        | 	              |                         |
+|        | 	              |                         |
+|        | 	              |                         |
+
+
 ## Code 201 - Foundations of Software Development
-
-
-
 | 201 Notes                                |                                          |                         |
 | ---------------------------------------- | ---------------------------------------- | ----------------------- |
 | **Notes**                                | **Details**                              | **Assignments**         |
@@ -49,7 +69,6 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 | [102 Labwork](https://0xquasark.github.io/102-labwork/) |                       |                         |
 
 
-## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
 
 
