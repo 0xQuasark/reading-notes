@@ -10,46 +10,35 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 ## Table of Contents
 ## Code 301 - Intermediate Software Development
 
-| 301 Notes                                |                                          |                         |
-| ---------------------------------------- | ---------------------------------------- | ----------------------- |
-| **Notes**                                | **Details**                              | **Assignments**         |
-| [Title](301/301-class01.md)       | 	              |                         |
-| [Title](301/301-class02.md)       | 	              |                         |
-| [Title](301/301-class03.md)       | 	              |                         |
-| [Title](301/301-class04.md)       | 	              |                         |
-| [Title](301/301-class05.md)       | 	              |                         |
-| [Title](301/301-class06.md)       | 	              |                         |
-| [Title](301/301-class07.md)       | 	              |                         |
-|        | 	              |                         |
-|        | 	              |                         |
-|        | 	              |                         |
-|        | 	              |                         |
-|        | 	              |                         |
-|        | 	              |                         |
-|        | 	              |                         |
-|        | 	              |                         |
-|        | 	              |                         |
+| 301 Notes                         |                                          |               |
+| ---------------------------------| ---------------------------------------- | ------------- |
+| **Notes**                         | **Details**                              | **Assignments** |
+| [Title](301/301-class01.md)       |                                        |               |
+| [Title](301/301-class02.md)       |                                        |               |
+| [Title](301/301-class03.md)       |                                        |               |
+| [Title](301/301-class04.md)       |                                        |               |
+| [Title](301/301-class05.md)       |                                        |               |
+| [Title](301/301-class06.md)       |                                        |               |
+| [Title](301/301-class07.md)       |                                        |               |
 
-
-## Code 201 - Foundations of Software Development
-| 201 Notes                                |                                          |                         |
-| ---------------------------------------- | ---------------------------------------- | ----------------------- |
-| **Notes**                                | **Details**                              | **Assignments**         |
-| [201.01 Notes](201/201-class01.md)       | Introduction to Development	            |                         |
-| [201.02 Notes](201/201-class02.md)       | Basics of HTML, CSS, JS                  | [Lab 02](201/labs/lab01/201-lab01.html) |
-| [201.03 Notes](201/201-class03.md)       | Control Flow; Box Model                  | [Lab 03](https://0xquasark.github.io/201.Module1/)                        |
-| [201.04 Notes](201/201-class04.md)       | Javascript Functions; Pair Programming   |                         |
-| [201.05 Notes](201/201-class05.md)       | Images, Color, Style; Branching          |                         |
-| [201.06 Notes](201/201-class06.md)       | Javascript Objects; The DOM	            | [Salmon Cookies](https://0xquasark.github.io/cookie-stand/)                        |
-| [201.07 Notes](201/201-class07.md)       | OOP; HTML Tables	                        |                         |
-| [201.08 Notes](201/201-class08.md)       | CSS Layout: Flex	                        |                         |
-| [201.09 Notes](201/201-class09.md)       | HTML Forms & JavaScript Events	          | [html example](201/labs/class9.html)                        |
-| [201.10 Notes](201/201-class10.md)       | JS Debugging; CSS Layouts	              |                         |
-| [201.11 Notes](201/201-class11.md)       | A/V; Accessibility; Math.random()  	    |                         |
-| [201.12 Notes](201/201-class12.md)       | 3rd Party Libraries and Documentation	  |                         |
-| [201.13 Notes](201/201-class13.md)       | Application State with Local Storage API	|                         |
-| [201.14 Notes](201/201-class14.md)       | Psycological Safety	                    |   [Psycological Safety Assignment](201/201-class14.psych-safety.md)                      |
-| [201.15 Notes](201/201-class15.md)       | Project Kickoff	                        |                         |
+| 201 Notes                         |                                          |               |
+| ---------------------------------| ---------------------------------------- | ------------- |
+| **Notes**                         | **Details**                              | **Assignments** |
+| [201.01 Notes](201/201-class01.md)| Introduction to Development             |               |
+| [201.02 Notes](201/201-class02.md)| Basics of HTML, CSS, JS                 | [Lab 02](201/labs/lab01/201-lab01.html) |
+| [201.03 Notes](201/201-class03.md)| Control Flow; Box Model                 | [Lab 03](https://0xquasark.github.io/201.Module1/) |
+| [201.04 Notes](201/201-class04.md)| Javascript Functions; Pair Programming  |               |
+| [201.05 Notes](201/201-class05.md)| Images, Color, Style; Branching         |               |
+| [201.06 Notes](201/201-class06.md)| Javascript Objects; The DOM             | [Salmon Cookies](https://0xquasark.github.io/cookie-stand/) |
+| [201.07 Notes](201/201-class07.md)| OOP; HTML Tables                        |               |
+| [201.08 Notes](201/201-class08.md)| CSS Layout: Flex                        |               |
+| [201.09 Notes](201/201-class09.md)| HTML Forms & JavaScript Events          | [html example](201/labs/class9.html) |
+| [201.10 Notes](201/201-class10.md)| JS Debugging; CSS Layouts               |               |
+| [201.11 Notes](201/201-class11.md)| A/V; Accessibility; Math.random()      |               |
+| [201.12 Notes](201/201-class12.md)| 3rd Party Libraries and Documentation  |               |
+| [201.13 Notes](201/201-class13.md)| Application State with Local Storage API|               |
+| [201.14 Notes](201/201-class14.md)| Psycological Safety                     | [Psycological Safety Assignment](201/201-class14.psych-safety.md) |
+| [201.15 Notes](201/201-class15.md)| Project Kickoff                         |               |
 
 
 ## Code 102 - Intro to Software Development
