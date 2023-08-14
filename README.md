@@ -13,13 +13,13 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 | 301 Notes                                |                                          |                         |
 | ---------------------------------------- | ---------------------------------------- | ----------------------- |
 | **Notes**                                | **Details**                              | **Assignments**         |
-|        | 	              |                         |
-|        | 	              |                         |
-|        | 	              |                         |
-|        | 	              |                         |
-|        | 	              |                         |
-|        | 	              |                         |
-|        | 	              |                         |
+| [Title](301/301-class01.md)       | 	              |                         |
+| [Title](301/301-class02.md)       | 	              |                         |
+| [Title](301/301-class03.md)       | 	              |                         |
+| [Title](301/301-class04.md)       | 	              |                         |
+| [Title](301/301-class05.md)       | 	              |                         |
+| [Title](301/301-class06.md)       | 	              |                         |
+| [Title](301/301-class07.md)       | 	              |                         |
 |        | 	              |                         |
 |        | 	              |                         |
 |        | 	              |                         |
