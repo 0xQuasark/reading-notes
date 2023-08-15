@@ -10,16 +10,16 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 ## Table of Contents
 ## Code 301 - Intermediate Software Development
 
-| 301 Notes                         |                                          |               |
-| ---------------------------------| ---------------------------------------- | ------------- |
-| **Notes**                         | **Details**                              | **Assignments** |
-| [301.01 Notes](301/301-class01.md)       |                                        |               |
-| [301.02 Notes](301/301-class02.md)       |                                        |               |
-| [301.03 Notes](301/301-class03.md)       |                                        |               |
-| [301.04 Notes](301/301-class04.md)       |                                        |               |
-| [301.05 Notes](301/301-class05.md)       |                                        |               |
-| [301.06 Notes](301/301-class06.md)       |                                        |               |
-| [301.07 Notes](301/301-class07.md)       |                                        |               |
+| 301 Notes                         |                                           |               |
+| ---------------------------------| ------------------------------------------ | ------------- |
+| **Notes**                           | **Details**                             | **Challenge** |
+| [301.01 Notes](301/301-class01.md)  | React and Component-Based Architecture  | [forEach](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-01.test.js)              |
+| [301.02 Notes](301/301-class02.md)  | React State and Props                   |               |
+| [301.03 Notes](301/301-class03.md)  | Functions as Props                      |               |
+| [301.04 Notes](301/301-class04.md)  | React and Forms                         |               |
+| [301.05 Notes](301/301-class05.md)  | Conditional Rendering, Routing          |               |
+| [301.06 Notes](301/301-class06.md)  |                                         |               |
+| [301.07 Notes](301/301-class07.md)  |                                         |               |
 
 | 201 Notes                         |                                          |               |
 | ---------------------------------| ---------------------------------------- | ------------- |
