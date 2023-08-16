@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Pikachu",
+    "type": "Electric",
+    "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/0d/025Pikachu.png/revision/latest/scale-to-width-down/1000?cb=20200620223403"
+  },
+  
+  {
+    "name": "Charizard",
+    "type": "Fire",
+    "image_url": "2"
+  },
+  {
+    "name": "Bulbasaur",
+    "type": "Grass",
+    "image_url": "3"
+  },
+  {
+    "name": "Squirtle",
+    "type": "Water",
+    "image_url": "4"
+  }
+]

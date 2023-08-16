@@ -10,16 +10,24 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 ## Table of Contents
 ## Code 301 - Intermediate Software Development
 
-| 301 Notes                         |                                           |               |
-| ---------------------------------| ------------------------------------------ | ------------- |
-| **Notes**                           | **Details**                             | **Challenge** |
-| [301.01 Notes](301/301-class01.md)  | React and Component-Based Architecture  | [forEach](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-01.test.js)              |
-| [301.02 Notes](301/301-class02.md)  | React State and Props                   |               |
-| [301.03 Notes](301/301-class03.md)  | Functions as Props                      |               |
-| [301.04 Notes](301/301-class04.md)  | React and Forms                         |               |
-| [301.05 Notes](301/301-class05.md)  | Conditional Rendering, Routing          |               |
-| [301.06 Notes](301/301-class06.md)  |                                         |               |
-| [301.07 Notes](301/301-class07.md)  |                                         |               |
+| 301 Notes                         |                                           |                   |
+| ---------------------------------| ------------------------------------------ | ----------------- |
+| **Notes**                           | **Details**                             | **Challenge**     |
+| [301.01 Notes](301/301-class01.md)  | React and Component-Based Architecture  | [Array forEach](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-01.test.js)          |
+| [301.02 Notes](301/301-class02.md)  | React State and Props                   | [Array map](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-02.test.js)     |
+| [301.03 Notes](301/301-class03.md)  | Functions as Props                      | [Array filter](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-03.test.js)  |
+| [301.04 Notes](301/301-class04.md)  | React and Forms                         | [Array sort]()    |
+| [301.05 Notes](301/301-class05.md)  | Conditional Rendering, Routing          | [Array reduce]()  |
+| [301.06 Notes](301/301-class06.md)  | Asynchronous Code and Third Party APIs  | [Value vs Reference]()              |
+| [301.07 Notes](301/301-class07.md)  | Express Servers                         | [Split, join, slice, splice]()              |
+| [301.08 Notes](301/301-class08.md)  | APIs                                    | [Regex]()              |
+| [301.09 Notes](301/301-class09.md)  | Modularization, Refactoring             | [Object keys, values, entries]()              |
+| [301.10 Notes](301/301-class10.md)  | Persistence                             | [2d Arrays]()              |
+| [301.11 Notes](301/301-class11.md)  | MongoDB, Mongoose and Data Modeling     | [Method Chaining]()              |
+| [301.12 Notes](301/301-class12.md)  | Creating and Deleting resources         | [Regex 2]()              |
+| [301.13 Notes](301/301-class13.md)  | Updating Resources                      | [includes, every, substring, chartAt]()              |
+| [301.14 Notes](301/301-class14.md)  | Diversity, Equity, Inclusion in Tech    | -              |
+| [301.15 Notes](301/301-class15.md)  | Authentication                          | -              |
 
 | 201 Notes                         |                                          |               |
 | ---------------------------------| ---------------------------------------- | ------------- |
