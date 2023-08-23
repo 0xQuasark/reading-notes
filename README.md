@@ -17,9 +17,9 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 | [301.02 Notes](301/301-class02.md)  | React State and Props                   | [Array map](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-02.test.js)     |
 | [301.03 Notes](301/301-class03.md)  | Functions as Props                      | [Array filter](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-03.test.js)  |
 | [301.04 Notes](301/301-class04.md)  | React and Forms                         | [Array sort](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-04.test.js)    |
-| [301.05 Notes](301/301-class05.md)  | Conditional Rendering, Routing          | [Array reduce](  |
-| [301.06 Notes](301/301-class06.md)  | Asynchronous Code and Third Party APIs  | [Value vs Reference](              |
-| [301.07 Notes](301/301-class07.md)  | Express Servers                         | [Split, join, slice, splice](              |
+| [301.05 Notes](301/301-class05.md)  | Conditional Rendering, Routing          | [Array reduce](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-05.test.js)  |
+| [301.06 Notes](301/301-class06.md)  | Asynchronous Code and Third Party APIs  | [Value vs Reference](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-06.test.js)              |
+| [301.07 Notes](301/301-class07.md)  | Express Servers                         | [Split, join, slice, splice](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-07.test.js)              |
 | [301.08 Notes](301/301-class08.md)  | APIs                                    | [Regex](              |
 | [301.09 Notes](301/301-class09.md)  | Modularization, Refactoring             | [Object keys, values, entries](              |
 | [301.10 Notes](301/301-class10.md)  | Persistence                             | [2d Arrays](              |
