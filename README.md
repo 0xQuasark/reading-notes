@@ -21,7 +21,7 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 | [301.06 Notes](301/301-class06.md)  | Asynchronous Code and Third Party APIs  | [Value vs Reference](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-06.test.js)              |
 | [301.07 Notes](301/301-class07.md)  | Express Servers                         | [Split, join, slice, splice](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-07.test.js)              |
 | [301.08 Notes](301/301-class08.md)  | APIs                                    | [Regex](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-08.test.js)              |
-| [301.09 Notes](301/301-class09.md)  | Modularization, Refactoring             | [Object keys, values, entries](              |
+| [301.09 Notes](301/301-class09.md)  | Modularization, Refactoring             | [Object keys, values, entries](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-09.test.js)              |
 | [301.10 Notes](301/301-class10.md)  | Persistence                             | [2d Arrays](              |
 | [301.11 Notes](301/301-class11.md)  | MongoDB, Mongoose and Data Modeling     | [Method Chaining](              |
 | [301.12 Notes](301/301-class12.md)  | Creating and Deleting resources         | [Regex 2](              |
