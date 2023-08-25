@@ -4,8 +4,6 @@ Here's a link to all my Reading Notes during my Code Fellows journey:
 
 The HTML version of this page [can be found here](https://0xquasark.github.io/reading-notes/)
 
-## Quick list
-- [201 Lecture Demos](https://github.com/codefellows/seattle-code-201d103/)
 
 ## Table of Contents
 ## Code 301 - Intermediate Software Development
@@ -69,6 +67,8 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 ## Code 401 - Advanced Software Development
 
 
+## Quick list
+- [201 Lecture Demos](https://github.com/codefellows/seattle-code-201d103/)
 
 
 ## Conclusion
