@@ -22,7 +22,7 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 | [301.09 Notes](301/301-class09.md)  | Modularization, Refactoring             | [Object keys, values, entries](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-09.test.js)              |
 | [301.10 Notes](301/301-class10.md)  | Persistence                             | [2d Arrays](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-10.test.js)              |
 | [301.11 Notes](301/301-class11.md)  | MongoDB, Mongoose and Data Modeling     | [Method Chaining](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-11.test.js)              |
-| [301.12 Notes](301/301-class12.md)  | Creating and Deleting resources         | [Regex 2](              |
+| [301.12 Notes](301/301-class12.md)  | Creating and Deleting resources         | [Regex 2](https://github.com/0xQuasark/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenges-12.test.js)              |
 | [301.13 Notes](301/301-class13.md)  | Updating Resources                      | [includes, every, substring, chartAt](              |
 | [301.14 Notes](301/301-class14.md)  | Diversity, Equity, Inclusion in Tech    | -              |
 | [301.15 Notes](301/301-class15.md)  | Authentication                          | -              |
