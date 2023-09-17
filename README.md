@@ -6,6 +6,34 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 
 
 ## Table of Contents
+
+## Code 401 - Advanced Software Development
+
+| 401 Notes                                           |                                           |                   |
+| ----------------------------------------------------| ----------------------------------------- | ----------------- |
+| **Notes**                                           | **Details**                               | **Challenge**     |
+| [401.00 Growth Mindset](401/growthMindset.md)       |                                           |                   |
+| [401.00 Terminal commands](401/terminalCommands.md) |                                           |                   |
+| [401.01 Notes](401/401-class01.md)                  |                                           |                   |
+| [401.02 Notes](401/401-class02.md)                  |                                           |                   |
+| [401.03 Notes](401/401-class03.md)                  |                                           |                   |
+| [401.04 Notes](401/401-class04.md)                  |                                           |                   |
+| [401.05 Notes](401/401-class05.md)                  |                                           |                   |
+| [401.06 Notes](401/401-class06.md)                  |                                           |                   |
+| [401.07 Notes](401/401-class07.md)                  |                                           |                   |
+| [401.08 Notes](401/401-class08.md)                  |                                           |                   |
+| [401.09 Notes](401/401-class09.md)                  |                                           |                   |
+| [401.10 Notes](401/401-class10.md)                  |                                           |                   |
+| [401.10 Notes](401/401-class11.md)                  |                                           |                   |
+| [401.10 Notes](401/401-class12.md)                  |                                           |                   |
+| [401.10 Notes](401/401-class13.md)                  |                                           |                   |
+| [401.10 Notes](401/401-class14.md)                  |                                           |                   |
+| [401.10 Notes](401/401-class15.md)                  |                                           |                   |
+
+
+
+
+
 ## Code 301 - Intermediate Software Development
 
 | 301 Notes                         |                                           |                   |
