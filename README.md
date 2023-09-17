@@ -14,6 +14,7 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 | **Notes**                                           | **Details**                               | **Challenge**     |
 | [401.00 Growth Mindset](401/growthMindset.md)       |                                           |                   |
 | [401.00 Terminal commands](401/terminalCommands.md) |                                           |                   |
+| [401.00 SQL Intros](401/sqlIntro.md) |                                           |                   |
 | [401.01 Notes](401/401-class01.md)                  |                                           |                   |
 | [401.02 Notes](401/401-class02.md)                  |                                           |                   |
 | [401.03 Notes](401/401-class03.md)                  |                                           |                   |
