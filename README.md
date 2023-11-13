@@ -20,16 +20,42 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 | [401.03 Notes](401/401-class03.md)                  |                                           |                   |
 | [401.04 Notes](401/401-class04.md)                  |                                           |                   |
 | [401.05 Notes](401/401-class05.md)                  |                                           |                   |
-| [401.06 Notes](401/401-class06.md)                  |      Basic Auth                                     |                   |
-| [401.07 Notes](401/401-class07.md)                  |      JWT                                     |                   |
+| [401.06 Notes](401/401-class06.md)                  |      Basic Auth                           |                   |
+| [401.07 Notes](401/401-class07.md)                  |      JWT                                  |                   |
 | [401.08 Notes](401/401-class08.md)                  |                                           |                   |
 | [401.09 Notes](401/401-class09.md)                  |                                           |                   |
 | [401.10 Notes](401/401-class10.md)                  |                                           |                   |
-| [401.10 Notes](401/401-class11.md)                  |                                           |                   |
-| [401.10 Notes](401/401-class12.md)                  |                                           |                   |
-| [401.10 Notes](401/401-class13.md)                  |                                           |                   |
-| [401.10 Notes](401/401-class14.md)                  |                                           |                   |
-| [401.10 Notes](401/401-class15.md)                  |                                           |                   |
+| [401.11 Notes](401/401-class11.md)                  |                                           |                   |
+| [401.12 Notes](401/401-class12.md)                  |                                           |                   |
+| [401.13 Notes](401/401-class13.md)                  |                                           |                   |
+| [401.14 Notes](401/401-class14.md)                  |                                           |                   |
+| [401.15 Notes](401/401-class15.md)                  |                                           |                   |
+| [401.16 Notes](401/401-class16.md)                  |                                           |                   |
+| [401.17 Notes](401/401-class17.md)                  |                                           |                   |
+| [401.18 Notes](401/401-class18.md)                  |                                           |                   |
+| [401.19 Notes](401/401-class19.md)                  |                                           |                   |
+| [401.20 Notes](401/401-class20.md)                  |                                           |                   |
+| [401.21 Notes](401/401-class21.md)                  |                                           |                   |
+| [401.22 Notes](401/401-class22.md)                  |                                           |                   |
+| [401.23 Notes](401/401-class23.md)                  |                                           |                   |
+| [401.24 Notes](401/401-class24.md)                  |                                           |                   |
+| [401.25 Notes](401/401-class25.md)                  |                                           |                   |
+| [401.26 Notes](401/401-class26.md)                  |                                           |                   |
+| [401.27 Notes](401/401-class27.md)                  |                                           |                   |
+| [401.28 Notes](401/401-class28.md)                  |                                           |                   |
+| [401.29 Notes](401/401-class29.md)                  |                                           |                   |
+| [401.30 Notes](401/401-class30.md)                  |                                           |                   |
+| [401.31 Notes](401/401-class31.md)                  |                                           |                   |
+| [401.32 Notes](401/401-class32.md)                  |                                           |                   |
+| [401.33 Notes](401/401-class33.md)                  |                                           |                   |
+| [401.34 Notes](401/401-class34.md)                  |                                           |                   |
+| [401.35 Notes](401/401-class35.md)                  |                                           |                   |
+| [401.36 Notes](401/401-class36.md)                  |                                           |                   |
+| [401.37 Notes](401/401-class37.md)                  |                                           |                   |
+| [401.38 Notes](401/401-class38.md)                  |                                           |                   |
+| [401.39 Notes](401/401-class39.md)                  |                                           |                   |
+| [401.40 Notes](401/401-class40.md)                  |                                           |                   |
+| [401.41 Notes](401/401-class41.md)                  |                                           |                   |
 
 
 
