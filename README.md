@@ -56,6 +56,9 @@ The HTML version of this page [can be found here](https://0xquasark.github.io/re
 | [401.39 Notes](401/401-class39.md)                  |                                           |                   |
 | [401.40 Notes](401/401-class40.md)                  |                                           |                   |
 | [401.41 Notes](401/401-class41.md)                  |                                           |                   |
+| ![Materials ready for review screenshot](readyForReview.png) |                                           |                   |
+
+
 
 
 
